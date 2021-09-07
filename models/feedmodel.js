@@ -40,5 +40,4 @@ const feedModel = new mongoose.Schema({
         required: true
     },
 })
-
 module.exports = mongoose.model('Feed', feedModel)
