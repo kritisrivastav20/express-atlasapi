@@ -1,7 +1,7 @@
 const express = require('express')
 const mongoose = require('mongoose')
 const url = 
-'mongodb+srv://[Username]:[password]@shopcluster.nc0aj.mongodb.net/test?retryWrites=true&w=majority'
+'mongodb+srv://KritiDev:vanya2016@shopcluster.nc0aj.mongodb.net/test?retryWrites=true&w=majority'
 const port = 9000
 const index = express()
 mongoose.connect(url, {useNewUrlParser: true, useUnifiedTopology: true })
