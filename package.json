@@ -13,8 +13,8 @@
     "express": "^4.17.1",
     "mongodb": "^4.1.0",
     "mongoose": "^5.13.7"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.12"
   }
+  // "devDependencies": {
+  //   "nodemon": "^2.0.12"
+  // }
 }
